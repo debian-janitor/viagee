@@ -43,5 +43,3 @@ Section: oldlibs
 Description: transitional package
  This is a transitional package, supporting the transition to viagee. It can be
  removed.
-
-
